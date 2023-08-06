@@ -1,5 +1,4 @@
-<script>
-    const originalData = [
+ const originalData = [
   {
     "id": 1,
     "foodname": "Apple",
