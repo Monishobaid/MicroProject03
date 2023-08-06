@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    flex-direction: column;
+    font-family: 'Xanh Mono', monospace;
+}
+h1{
+    padding: 20px;
+    border: 5px solid black;
+    width: 100%;
+    text-align: center;
+}
+label{
+    padding: 10px;
+    font-size: x-large;
+}
+table,td,th{
+    border: 3px solid black;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    padding: 20px;
+}
+label{
+    padding: 20px;
+}
+
+select{
+    padding: 10px;
+    font-family: 'Xanh Mono', monospace;
+    margin: 10px;
+    border-radius: 0;
+}
